@@ -48,10 +48,7 @@ A: Only if your job involves testing mouse switch durability while actively avoi
 ![Button Milestone Screenshot](./A7pMC0sG09cZvkU88htyDv47Q4.png)
 *The button reaches a dramatic milestone and announces your commitment to uselessness with style.*
 
-<video controls width="100%" poster="./A7pMC0sG09cZvkU88htyDv47Q4.png">
-  <source src="./overview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Overview demo video](./overview.mp4)
 *Overview demo video showing the button in action and why this is absolutely not a useful product.*
 
 *completely pointless, by design*
