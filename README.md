@@ -42,3 +42,13 @@ A sleek, interactive DOM-breaking experience that begs the user to reconsider th
 A: Only if your job involves testing mouse switch durability while actively avoiding real responsibilities.
 
 *completely pointless, by design*
+
+# SCREENSHOTS
+
+
+
+
+
+
+
+
