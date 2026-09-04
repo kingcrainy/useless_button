@@ -50,5 +50,6 @@ A: Only if your job involves testing mouse switch durability while actively avoi
 
 [Overview demo video](./overview.mp4)
 *Overview demo video showing the button in action and why this is absolutely not a useful product.*
+(video only available in raw format sorry for the inconvinience)
 
 *completely pointless, by design*
