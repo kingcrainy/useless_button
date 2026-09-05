@@ -38,13 +38,18 @@ A sleek, interactive DOM-breaking experience that begs the user to reconsider th
 ![Button Milestone Screenshot](./A7pMC0sG09cZvkU88htyDv47Q4.png)
 *The button reaches a dramatic milestone and announces your commitment to uselessness with style.*
 
-[Overview demo video](./overview.mp4)
+## Video
+
+https://github.com/kingcrainy/useless_button/blob/main/overview.mp4
+
 *Overview demo video showing the button in action and why this is absolutely not a useful product.*
 <<<<<<< HEAD
 
 *completely pointless, by design*
 =======
-(video only available in raw format sorry for the inconvinience)
 
-*completely pointless, by design*
->>>>>>> 22777311a3b51ae1491a2ef44e4200f592d54bba
+---
+Made with ❤️ at TinkerHub Useless Projects 
+
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
