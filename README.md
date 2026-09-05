@@ -1,48 +1,32 @@
-## The Useless Button 🎯
+# The Useless Button 🎯
 
 ## Basic Details
-**Team name:** nothing
+**Team Name:** nothing
 
+### Team Members
+* **Team Lead:** Mahendra Babu - Jain university kochi
+                                  BTECH first year AI/ML
 
+## Project Description
+A beautifully over-engineered, CSS-animated button that does absolutely nothing except count your clicks and aggressively judge your life choices.
 
-**Sole Developer:** Mahendra Babu
+### The Problem (that doesn't exist)
+The internet simply doesn't have enough glowing interfaces that actively insult users in Malayalam for wasting their own time.
 
-**Project Description**
-A beautifully over-engineered, CSS-animated button that does absolutely nothing except count your clicks and aggressively judge your life choices[cite: 3].
+### The Solution (that nobody asked for)
+A sleek, interactive DOM-breaking experience that begs the user to reconsider their productivity while delivering high-tier passive aggression.
 
-**The Problem (that doesn't exist)**
-The internet simply doesn't have enough glowing interfaces that actively insult users in Malayalam for wasting their own time[cite: 3].
-
-**The Solution (that nobody asked for)**
-A sleek, interactive DOM-breaking experience that begs the user to reconsider their productivity while delivering high-tier passive aggression[cite: 3].
+---
 
 ## Technical Details
-**Technologies Used**
-*   **HTML5 / CSS3:** Custom radial gradients, floating orb animations, and glassmorphism modals[cite: 3].
-*   **Vanilla JavaScript:** Event listeners, randomized array outputs, and click milestone tracking[cite: 3].
-*   **Embedded Audio:** Base64 WAV click sound[cite: 3].
 
-**Installation & Run**
-1. Download `useless-button(1).html`[cite: 3].
-2. Double-click the file to open it in any browser.
-3. Click the button. Realize it does nothing. Click it again anyway[cite: 3].
+### Technologies/Components Used
 
-## Core Features & Mechanics
-*   **Phantom Orbs:** Continuously floating background blobs designed to distract from the void[cite: 3].
-*   **The 50-Click Milestone:** A modal popup that explicitly demands the user buy the creator a cigarette and a fruity drink as compensation for wasted time[cite: 3].
-*   **Vibe-Coded Architecture:** Built entirely while listening to Hindi music in the background, opting for vibes over actual functionality[cite: 3].
-
-**Sample System Responses**
-| Click State | Button's Internal Monologue |
-| :--- | :--- |
-| Random | "you are single-handedly destroying your mouse"[cite: 3] |
-| Random | "പോടാ മോനേ" (Get outta here, kid)[cite: 3] |
-| Random | "error 404: purpose not found"[cite: 3] |
-| 50 Clicks | "Fifty clicks into a useless button and you are still going. This is not persistence; it is a cry for help."[cite: 3] |
-
-## Frequently Unasked Questions (FAQ)
-**Q: Can I use this for work?**
-A: Only if your job involves testing mouse switch durability while actively avoiding real responsibilities.
+**For Software:**
+* **Languages:** HTML5, CSS3, Vanilla JavaScript
+* **Frameworks:** None
+* **Libraries:** None
+* **Tools:** Embedded Audio (Base64 WAV)
 
 ## Screenshots and recordings
 
